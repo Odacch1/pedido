@@ -1,2 +1,2 @@
 # pedido
-Desafio da Next-TI para desenvolvedor Júnior
+Desafio da Nexti para desenvolvedor Júnior
